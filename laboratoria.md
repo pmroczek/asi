@@ -57,6 +57,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Krzyżanowski Piotr
 1. Ładosz Milena
 1. Mackiewicz Marcin
+1. Mroczek Przemysław
 1. Pluskota Radosław
 1. Rosiak Łukasz
 1. Rzepniewski Marcin
