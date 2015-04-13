@@ -57,7 +57,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Ładosz Milena
 1. Mackiewicz Marcin
 1. Mielnikowski Łukasz
-1. Mroczek Przemysław
+1. Mroczek Przemysław [215537](https://blogpmroczek.herokuapp.com/). blogpmroczek(https://github.com/pmroczek/RubyOnRails).
 1. Niemczyk Radosław
 1. Pietrzyk Michał
 1. Rosiak Łukasz
